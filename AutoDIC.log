@@ -1,0 +1,252 @@
+2023-10-12 09:56:02	[INFO]	 AutoDIC - Connecting FIB at localhost:8300 ...
+2023-10-12 09:56:02	[INFO]	 AutoDIC - FIB connected at localhost:8300
+2023-10-12 09:56:02	[DEBUG]	 AutoDIC - Setting Flags to wait for all:0x1+0x2+0x4+0x8+0x20+0x40
+2023-10-12 09:56:02	[DEBUG]	 AutoDIC - Receiving preset list
+2023-10-12 09:56:02	[DEBUG]	 AutoDIC - Receiving SEM preset list
+2023-10-12 09:56:02	[DEBUG]	 AutoDIC - Receiving detectors
+2023-10-12 09:56:12	[DEBUG]	 AutoDIC - Position: -2.027e+01,3.800e+01,5.000e+00,2.112e+02,0.000000e+00
+2023-10-12 09:56:12	[DEBUG]	 AutoDIC - WD: 6.000000e+00
+2023-10-12 09:56:16	[INFO]	 AutoDIC - Opening layer C:/Users/jiri.dluhos/Documents/GitHub/AutoDIC/geometries/ringcore5um.xml ...
+2023-10-12 09:56:16	[INFO]	 AutoDIC - ========= Position_1 ============
+2023-10-12 09:56:16	[DEBUG]	 AutoDIC - Moving to Position_1: -2.027e+01,3.800e+01,5.000e+00,2.112e+02,0.000e+00; WD= 6.000e+00 mm
+2023-10-12 09:56:18	[DEBUG]	 AutoDIC - Enabling detector 0 in 8 bits
+2023-10-12 09:56:18	[DEBUG]	 AutoDIC - Setting the field of view to 3.00e-05 um
+2023-10-12 09:56:18	[DEBUG]	 AutoDIC - ScScanXY(channel=0,width=3000,height=3000,left=0, top=0, right=1000,bottom=1000, singlescan=1,dwelltime=1000.000000)
+2023-10-12 09:56:18	[DEBUG]	 AutoDIC - Fetching image 1001x1001
+2023-10-12 09:56:19	[DEBUG]	 AutoDIC - Image fetched
+2023-10-12 09:56:19	[DEBUG]	 AutoDIC - Init SEM image shift 3.29e-01 , 1.95e-01 um
+2023-10-12 09:56:20	[DEBUG]	 AutoDIC - Setting the field of view to 5.00e-06 um
+2023-10-12 09:56:22	[DEBUG]	 AutoDIC - Stabilizing image 1.2922s 
+
+2023-10-12 09:56:22	[DEBUG]	 AutoDIC - Stabilizing image 1.7138s 
+
+2023-10-12 09:56:23	[DEBUG]	 AutoDIC - Stabilizing image 2.1343s 
+
+2023-10-12 09:56:23	[DEBUG]	 AutoDIC - Stabilizing image 2.5551s 
+
+2023-10-12 09:56:23	[DEBUG]	 AutoDIC - Stabilizing image 2.9795s 
+
+2023-10-12 09:56:24	[DEBUG]	 AutoDIC - Stabilizing image 3.4014s 
+
+2023-10-12 09:56:24	[DEBUG]	 AutoDIC - Stabilizing image 3.8139s 
+
+2023-10-12 09:56:25	[DEBUG]	 AutoDIC - Stabilizing image 4.2467s 
+
+2023-10-12 09:56:25	[DEBUG]	 AutoDIC - Stabilizing image 4.6669s 
+
+2023-10-12 09:56:26	[DEBUG]	 AutoDIC - Stabilizing image 5.0689s 
+
+2023-10-12 09:56:26	[DEBUG]	 AutoDIC - Position_1_0000.tif; 5.4303; 0; 0; 1; ref
+
+2023-10-12 09:56:26	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:56:26	[DEBUG]	 AutoDIC - Position_1 0000_0001.tif; 5.8240; 3.0476e+00; 2.7511e+02; 0.003973;skipped
+2023-10-12 09:56:27	[DEBUG]	 AutoDIC - Position_1 0000_0002.tif; 6.2311; 4.9442e+02; -3.7112e+02; 0.012871;skipped
+2023-10-12 09:56:27	[DEBUG]	 AutoDIC - Position_1 0000_0003.tif; 6.6554; -3.6419e+02; -2.9001e+02; -0.000665;skipped
+2023-10-12 09:56:28	[DEBUG]	 AutoDIC - Position_1 0000_0004.tif; 7.0493; 1.0775e+02; -3.4240e+02; 0.002707;skipped
+2023-10-12 09:56:28	[DEBUG]	 AutoDIC - Position_1 0000_0005.tif; 7.4432; -9.1247e+01; -8.3649e+02; 0.000044;skipped
+2023-10-12 09:56:28	[DEBUG]	 AutoDIC - Position_1 0000_0006.tif; 7.8385; 1.8932e+00; -1.8190e+00; 0.040053;skipped
+2023-10-12 09:56:29	[DEBUG]	 AutoDIC - Position_1 0000_0007.tif; 8.2603; -8.0736e+00; 2.9571e+02; 0.007104;skipped
+2023-10-12 09:56:29	[DEBUG]	 AutoDIC - Position_1 0000_0008.tif; 8.6701; -4.6501e+02; 2.3219e+01; 0.004937;skipped
+2023-10-12 09:56:30	[DEBUG]	 AutoDIC - Position_1 0000_0009.tif; 9.0673; -1.7075e+00; 1.3546e+02; 0.004947;skipped
+2023-10-12 09:56:30	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:56:30	[DEBUG]	 AutoDIC - Writing Position_1_img0000.TIF
+2023-10-12 09:56:30	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:56:30	[DEBUG]	 AutoDIC - Position_1 0001_0001.tif; 9.4742; 2.9670e+02; 2.2223e+02; 0.009633;skipped
+2023-10-12 09:56:30	[DEBUG]	 AutoDIC - Position_1 0001_0002.tif; 9.8627; -3.0993e+02; -1.1770e+02; -0.000826;skipped
+2023-10-12 09:56:31	[DEBUG]	 AutoDIC - Position_1 0001_0003.tif; 10.2446; 4.5779e+02; -3.7917e+01; 0.012865;skipped
+2023-10-12 09:56:31	[DEBUG]	 AutoDIC - Position_1 0001_0004.tif; 10.6450; 3.7657e+01; 1.3058e+02; 0.002329;skipped
+2023-10-12 09:56:32	[DEBUG]	 AutoDIC - Position_1 0001_0005.tif; 11.0419; -1.3076e+02; -4.8794e+02; 0.010321;skipped
+2023-10-12 09:56:32	[DEBUG]	 AutoDIC - Position_1 0001_0006.tif; 11.4388; 4.7940e+02; -4.8605e+01; -0.004528;skipped
+2023-10-12 09:56:32	[DEBUG]	 AutoDIC - Position_1 0001_0007.tif; 11.8373; 1.9290e+02; -4.3525e+02; 0.001876;skipped
+2023-10-12 09:56:33	[DEBUG]	 AutoDIC - Position_1 0001_0008.tif; 12.2350; 1.1673e+01; 3.3181e+02; 0.009621;skipped
+2023-10-12 09:56:33	[DEBUG]	 AutoDIC - Position_1 0001_0009.tif; 12.6369; 4.8507e+02; -2.4481e+02; 0.011175;skipped
+2023-10-12 09:56:33	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:56:33	[DEBUG]	 AutoDIC - Writing Position_1_img0001.TIF
+2023-10-12 09:56:33	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:56:34	[DEBUG]	 AutoDIC - Position_1 0002_0001.tif; 13.0253; 1.5850e+02; 7.4022e+01; 0.004247;skipped
+2023-10-12 09:56:34	[DEBUG]	 AutoDIC - Position_1 0002_0002.tif; 13.4509; -1.8757e+02; -1.3229e+02; 0.003353;skipped
+2023-10-12 09:56:34	[DEBUG]	 AutoDIC - Position_1 0002_0003.tif; 13.8306; 1.9020e+02; 1.4751e+02; 0.004802;skipped
+2023-10-12 09:56:35	[DEBUG]	 AutoDIC - Position_1 0002_0004.tif; 14.2503; 3.0841e+02; -4.1173e+02; 0.009639;skipped
+2023-10-12 09:56:35	[DEBUG]	 AutoDIC - Position_1 0002_0005.tif; 14.6659; -3.4225e+02; 6.4990e+01; 0.002183;skipped
+2023-10-12 09:56:36	[DEBUG]	 AutoDIC - Position_1 0002_0006.tif; 15.0655; 8.4317e+01; 2.1194e+02; 0.001422;skipped
+2023-10-12 09:56:36	[DEBUG]	 AutoDIC - Position_1 0002_0007.tif; 15.4500; 3.0156e+02; 3.7429e+02; 0.002005;skipped
+2023-10-12 09:56:36	[DEBUG]	 AutoDIC - Position_1 0002_0008.tif; 15.8601; -1.1686e+02; -1.8188e+00; 0.000267;skipped
+2023-10-12 09:56:37	[DEBUG]	 AutoDIC - Position_1 0002_0009.tif; 16.2640; 1.3406e+02; 2.9602e+02; -0.000594;skipped
+2023-10-12 09:56:37	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:56:37	[DEBUG]	 AutoDIC - Writing Position_1_img0002.TIF
+2023-10-12 09:56:37	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:56:37	[DEBUG]	 AutoDIC - Position_1 0003_0001.tif; 16.6793; 2.4911e+02; 2.1449e+02; 0.003373;skipped
+2023-10-12 09:56:38	[DEBUG]	 AutoDIC - Position_1 0003_0002.tif; 17.1038; 3.4270e+02; -4.4627e+02; 0.006157;skipped
+2023-10-12 09:56:38	[DEBUG]	 AutoDIC - Position_1 0003_0003.tif; 17.5092; 4.1097e+02; 2.5315e+02; 0.002534;skipped
+2023-10-12 09:56:38	[DEBUG]	 AutoDIC - Position_1 0003_0004.tif; 17.9261; -6.7323e+01; -4.0486e+01; 0.014147;skipped
+2023-10-12 09:56:39	[DEBUG]	 AutoDIC - Position_1 0003_0005.tif; 18.3404; -4.5643e-04; 4.0146e+02; 0.005114;skipped
+2023-10-12 09:56:39	[DEBUG]	 AutoDIC - Position_1 0003_0006.tif; 18.7594; 1.7027e+02; -1.9917e+01; -0.001488;skipped
+2023-10-12 09:56:40	[DEBUG]	 AutoDIC - Position_1 0003_0007.tif; 19.1794; 3.5120e+02; -3.2845e+02; 0.001249;skipped
+2023-10-12 09:56:40	[DEBUG]	 AutoDIC - Position_1 0003_0008.tif; 19.6056; -7.5105e+00; 4.0426e-01; 0.020429;skipped
+2023-10-12 09:56:41	[DEBUG]	 AutoDIC - Position_1 0003_0009.tif; 20.0153; 2.6707e+02; 4.2741e+02; 0.005023;skipped
+2023-10-12 09:56:41	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:56:41	[DEBUG]	 AutoDIC - Writing Position_1_img0003.TIF
+2023-10-12 09:56:41	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:56:41	[DEBUG]	 AutoDIC - Position_1 0004_0001.tif; 20.4119; 6.5010e+01; 3.4996e+02; 0.010618;skipped
+2023-10-12 09:56:41	[DEBUG]	 AutoDIC - Position_1 0004_0002.tif; 20.8286; 4.4354e+02; -2.5505e+02; 0.015902;skipped
+2023-10-12 09:56:42	[DEBUG]	 AutoDIC - Position_1 0004_0003.tif; 21.2595; 1.0015e+02; -1.0172e+02; 0.023778;skipped
+2023-10-12 09:56:42	[DEBUG]	 AutoDIC - Position_1 0004_0004.tif; 21.6776; -2.3678e+02; 3.8379e+02; 0.003744;skipped
+2023-10-12 09:56:43	[DEBUG]	 AutoDIC - Position_1 0004_0005.tif; 22.1028; 4.4568e+02; 4.2975e+02; 0.009159;skipped
+2023-10-12 09:56:43	[DEBUG]	 AutoDIC - Position_1 0004_0006.tif; 22.5288; -5.5770e+00; -7.4360e+00; 0.009202;skipped
+2023-10-12 09:56:44	[DEBUG]	 AutoDIC - Position_1 0004_0007.tif; 22.9544; -4.0925e+02; 4.1762e+02; 0.013280;skipped
+2023-10-12 09:56:44	[DEBUG]	 AutoDIC - Position_1 0004_0008.tif; 23.3613; -8.7911e+01; 1.2154e+01; 0.002343;skipped
+2023-10-12 09:56:44	[DEBUG]	 AutoDIC - Position_1 0004_0009.tif; 23.7774; 1.9571e-01; -1.1623e+00; 0.044556;skipped
+2023-10-12 09:56:44	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:56:44	[DEBUG]	 AutoDIC - Writing Position_1_img0004.TIF
+2023-10-12 09:56:45	[INFO]	 AutoDIC - Setting the FIB field of view to 2.60e-05 um
+2023-10-12 09:56:45	[INFO]	 AutoDIC - Starting FIB image acquisition: [600 x 600 x 8],detector 0 wait approx. 0.96 s ...
+2023-10-12 09:56:45	[DEBUG]	 AutoDIC - FibScScanXY(channel=0,width=2600,height=2600,left=0, top=0, right=599,bottom=599, singlescan=1)
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC - Cross correlation using template matching:
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC - Pixelshift [465.4204,476.7382]
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC - ImageShift [0.0000,0.0000]
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC - Std [0.0026,0.0039]
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC - CorrCoef 0.0865]
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC - Info 0]
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC - Image Shift Calculation:
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC -   template size =[120,120]
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC -   image size =[600,600]
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC -   center = [525.4204,525.4204]
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC -   pixel shift = [225.4204,236.7382]
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC -   shift = [2.25e-06,2.37e-06]
+2023-10-12 09:56:48	[INFO]	 AutoDIC - Opening layer C:/Users/jiri.dluhos/Documents/GitHub/AutoDIC/geometries/ringcore5um.xml ...
+2023-10-12 09:56:48	[INFO]	 AutoDIC - Shifting the patterns by [2.254204e-06, -2.367382e-06]...
+2023-10-12 09:56:48	[INFO]	 AutoDIC - ===== Milling Layer, step 1======
+2023-10-12 09:56:48	[INFO]	 AutoDIC - Setting write field to 26.0 um
+2023-10-12 09:56:48	[INFO]	 AutoDIC - Ion Beam is ON
+2023-10-12 09:56:48	[DEBUG]	 AutoDIC - DrawBeam Advanced installed
+2023-10-12 09:56:48	[INFO]	 AutoDIC - I-beam scanning is busy : 0
+2023-10-12 09:56:48	[INFO]	 AutoDIC - I-beam optics is busy : 0
+2023-10-12 09:56:48	[INFO]	 AutoDIC - I-beam automated precedure is busy : 0
+2023-10-12 09:56:48	[INFO]	 AutoDIC - changing preset to : 30 keV; 100 pA
+2023-10-12 09:57:03	[INFO]	 AutoDIC - Faraday cup current = 5339.845565 pA
+2023-10-12 09:57:03	[INFO]	 AutoDIC - Beam current=0. Updating layer current from 4.340000e-10 A to 5.34e-09 A
+2023-10-12 09:57:03	[DEBUG]	 AutoDIC - <?xml version="1.0" ?><Layer Name="ringcore5um" Version="1.0">
+	<Settings Accuracy="Fine" BeamCurrent="5.34e-09" DwellTime="1.000000e-06" Parallel="0" Process="I-Etching" Rate="2.000000e-10" Spacing="1.666700e-01" SpotSize="5.000000e-08" WriteFieldSize="2.600000e-05"/>
+	<Object AngleA="0.000000" AngleB="0.000000" Center="2.254204e-06 -2.367382e-06" Depth="2.000000e-07" DepthUnit="m" ExpositionFactor="1.000000" LineSettleFactor="1.000000" Name="Annulus 1" Orientation="0" RadiusA="5.000000e-06" RadiusB="2.500000e-06" Type="AnnulusFilled"/>
+</Layer>
+2023-10-12 09:57:03	[INFO]	 AutoDIC - Unloading layer with status: -1
+2023-10-12 09:57:03	[INFO]	 AutoDIC - Loading layer into DrawBeam with status:0
+2023-10-12 09:57:03	[DEBUG]	 AutoDIC - Any previous process is stopped ?? with status:-1
+2023-10-12 09:57:03	[INFO]	 AutoDIC - Layer started with status:0
+2023-10-12 09:57:03	[INFO]	 AutoDIC - Drawbeam thread Status:2
+2023-10-12 09:57:03	[DEBUG]	 AutoDIC - Layer progress: Time: 0.00 s / 0.00 s ()
+2023-10-12 09:57:03	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:03	[DEBUG]	 AutoDIC - Layer progress: Time: 0.00 s / 0.00 s ()
+2023-10-12 09:57:04	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:04	[DEBUG]	 AutoDIC - Layer progress: Time: 0.00 s / 0.00 s ()
+2023-10-12 09:57:04	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:05	[DEBUG]	 AutoDIC - Layer progress: Time: 0.00 s / 0.00 s ()
+2023-10-12 09:57:05	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:06	[DEBUG]	 AutoDIC - Layer progress: Time: 0.00 s / 0.00 s ()
+2023-10-12 09:57:06	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:06	[DEBUG]	 AutoDIC - Layer progress: Time: 2.97 s / 12.53 s ()
+2023-10-12 09:57:06	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:07	[DEBUG]	 AutoDIC - Layer progress: Time: 3.58 s / 12.53 s ()
+2023-10-12 09:57:07	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:08	[DEBUG]	 AutoDIC - Layer progress: Time: 4.38 s / 12.53 s ()
+2023-10-12 09:57:08	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:08	[DEBUG]	 AutoDIC - Layer progress: Time: 4.97 s / 12.53 s ()
+2023-10-12 09:57:09	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:09	[DEBUG]	 AutoDIC - Layer progress: Time: 5.78 s / 10.12 s ()
+2023-10-12 09:57:09	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:10	[DEBUG]	 AutoDIC - Layer progress: Time: 6.38 s / 9.23 s ()
+2023-10-12 09:57:10	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:10	[DEBUG]	 AutoDIC - Layer progress: Time: 7.17 s / 7.93 s ()
+2023-10-12 09:57:11	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:11	[DEBUG]	 AutoDIC - Layer progress: Time: 7.58 s / 7.56 s ()
+2023-10-12 09:57:11	[DEBUG]	 AutoDIC - Drawbeam Status: Layer Finished
+2023-10-12 09:57:11	[DEBUG]	 AutoDIC - Drawbeam Status: running
+2023-10-12 09:57:12	[DEBUG]	 AutoDIC - FIB process finished.
+2023-10-12 09:57:13	[INFO]	 AutoDIC - SEM Drift correction
+2023-10-12 09:57:13	[DEBUG]	 AutoDIC - Enabling detector 0 in 8 bits
+2023-10-12 09:57:13	[DEBUG]	 AutoDIC - Setting the field of view to 3.00e-05 um
+2023-10-12 09:57:13	[DEBUG]	 AutoDIC - ScScanXY(channel=0,width=3000,height=3000,left=0, top=0, right=1000,bottom=1000, singlescan=1,dwelltime=1000.000000)
+2023-10-12 09:57:14	[DEBUG]	 AutoDIC - Fetching image 1001x1001
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - Image fetched
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - Cross correlation using template matching:
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - Pixelshift [410.8646,388.8293]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - ImageShift [0.0000,0.0000]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - Std [0.0012,0.0012]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - CorrCoef 0.1371]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - Info 0]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - Image Shift Calculation:
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC -   template size =[201,201]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC -   image size =[1001,1001]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC -   center = [511.3646,511.3646]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC -   pixel shift = [10.8646,-11.1707]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC -   shift = [1.09e-07,-1.12e-07]
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - Setting SEM image shift 3.29e-01 , 1.95e-01 um -> 2.21e-01 , 1.31e-01 um
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - New SEM image shift 2.21e-01 , 1.31e-01 um
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - Enabling detector 0 in 8 bits
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - Setting the field of view to 3.00e-05 um
+2023-10-12 09:57:15	[DEBUG]	 AutoDIC - ScScanXY(channel=0,width=3000,height=3000,left=0, top=0, right=1000,bottom=1000, singlescan=1,dwelltime=1000.000000)
+2023-10-12 09:57:16	[DEBUG]	 AutoDIC - Fetching image 1001x1001
+2023-10-12 09:57:17	[DEBUG]	 AutoDIC - Image fetched
+2023-10-12 09:57:18	[DEBUG]	 AutoDIC - Setting the field of view to 5.00e-06 um
+2023-10-12 09:57:19	[DEBUG]	 AutoDIC - Position_1_0000.tif; 1.2855; 0; 0; 1; ref
+
+2023-10-12 09:57:19	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:57:20	[DEBUG]	 AutoDIC - Position_1 0000_0001.tif; 1.7192; 1.5631e+02; -2.7668e+02; 0.000778;skipped
+2023-10-12 09:57:20	[DEBUG]	 AutoDIC - Position_1 0000_0002.tif; 2.1062; -2.8251e+02; -4.5998e+02; 0.010476;skipped
+2023-10-12 09:57:21	[DEBUG]	 AutoDIC - Position_1 0000_0003.tif; 2.5173; 1.5548e+01; -3.3484e+02; 0.003491;skipped
+2023-10-12 09:57:21	[DEBUG]	 AutoDIC - Position_1 0000_0004.tif; 2.9269; -3.1106e+02; -4.2667e+02; 0.003917;skipped
+2023-10-12 09:57:21	[DEBUG]	 AutoDIC - Position_1 0000_0005.tif; 3.3301; -2.7383e+02; -2.9792e+00; 0.011462;skipped
+2023-10-12 09:57:22	[DEBUG]	 AutoDIC - Position_1 0000_0006.tif; 3.7580; -4.2135e+02; 1.3235e+02; 0.006135;skipped
+2023-10-12 09:57:22	[DEBUG]	 AutoDIC - Position_1 0000_0007.tif; 4.1656; 8.0239e+01; 3.4683e+02; 0.001889;skipped
+2023-10-12 09:57:23	[DEBUG]	 AutoDIC - Position_1 0000_0008.tif; 4.5776; 4.2824e+02; -4.0682e+02; 0.011687;skipped
+2023-10-12 09:57:23	[DEBUG]	 AutoDIC - Position_1 0000_0009.tif; 4.9935; 4.7276e+02; 7.1737e+01; -0.002616;skipped
+2023-10-12 09:57:23	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:57:23	[DEBUG]	 AutoDIC - Writing Position_1_img0005.TIF
+2023-10-12 09:57:23	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:57:24	[DEBUG]	 AutoDIC - Position_1 0001_0001.tif; 5.3985; 1.7796e+02; -3.7062e+02; -0.003924;skipped
+2023-10-12 09:57:24	[DEBUG]	 AutoDIC - Position_1 0001_0002.tif; 5.8205; -1.1206e+02; -4.7164e+02; 0.009813;skipped
+2023-10-12 09:57:24	[DEBUG]	 AutoDIC - Position_1 0001_0003.tif; 6.2386; -1.5896e+01; -1.6450e+01; 0.015132;skipped
+2023-10-12 09:57:25	[DEBUG]	 AutoDIC - Position_1 0001_0004.tif; 6.6446; 4.7779e+02; 2.5900e+02; 0.013845;skipped
+2023-10-12 09:57:25	[DEBUG]	 AutoDIC - Position_1 0001_0005.tif; 7.0638; 5.2578e-02; 9.1305e-01; 0.037840;skipped
+2023-10-12 09:57:26	[DEBUG]	 AutoDIC - Position_1 0001_0006.tif; 7.4806; 3.0031e+02; -1.1369e+02; 0.012348;skipped
+2023-10-12 09:57:26	[DEBUG]	 AutoDIC - Position_1 0001_0007.tif; 7.9053; -1.5019e+02; 9.8274e+01; -0.001401;skipped
+2023-10-12 09:57:26	[DEBUG]	 AutoDIC - Position_1 0001_0008.tif; 8.3209; 3.3303e+02; -3.2893e+02; 0.011402;skipped
+2023-10-12 09:57:27	[DEBUG]	 AutoDIC - Position_1 0001_0009.tif; 8.7423; 2.3298e+00; -4.4161e+02; 0.009577;skipped
+2023-10-12 09:57:27	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:57:27	[DEBUG]	 AutoDIC - Writing Position_1_img0006.TIF
+2023-10-12 09:57:27	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:57:27	[DEBUG]	 AutoDIC - Position_1 0002_0001.tif; 9.1521; -4.1976e+02; -6.8579e+01; 0.013058;skipped
+2023-10-12 09:57:28	[DEBUG]	 AutoDIC - Position_1 0002_0002.tif; 9.5564; -4.9465e+02; -3.9316e+02; 0.006208;skipped
+2023-10-12 09:57:28	[DEBUG]	 AutoDIC - Position_1 0002_0003.tif; 9.9715; 2.8211e+02; -4.1679e+02; -0.001714;skipped
+2023-10-12 09:57:29	[DEBUG]	 AutoDIC - Position_1 0002_0004.tif; 10.3825; -4.9641e+02; -4.8739e+02; 0.009295;skipped
+2023-10-12 09:57:29	[DEBUG]	 AutoDIC - Position_1 0002_0005.tif; 10.7928; 2.0531e+02; 4.7945e+02; 0.002021;skipped
+2023-10-12 09:57:29	[DEBUG]	 AutoDIC - Position_1 0002_0006.tif; 11.2046; 4.6248e+02; -2.7212e+02; -0.004616;skipped
+2023-10-12 09:57:30	[DEBUG]	 AutoDIC - Position_1 0002_0007.tif; 11.6082; 2.3429e+02; 7.8242e+01; -0.000480;skipped
+2023-10-12 09:57:30	[DEBUG]	 AutoDIC - Position_1 0002_0008.tif; 12.0296; -1.0363e+02; -4.4165e+01; 0.004460;skipped
+2023-10-12 09:57:31	[DEBUG]	 AutoDIC - Position_1 0002_0009.tif; 12.4495; 1.8181e+01; 6.1274e+01; 0.008951;skipped
+2023-10-12 09:57:31	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:57:31	[DEBUG]	 AutoDIC - Writing Position_1_img0007.TIF
+2023-10-12 09:57:31	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:57:31	[DEBUG]	 AutoDIC - Position_1 0003_0001.tif; 12.8596; 7.3941e+00; 5.0166e+02; 0.002913;skipped
+2023-10-12 09:57:31	[DEBUG]	 AutoDIC - Position_1 0003_0002.tif; 13.2764; 1.3052e+01; 7.0382e+01; 0.005232;skipped
+2023-10-12 09:57:32	[DEBUG]	 AutoDIC - Position_1 0003_0003.tif; 13.6863; 3.9839e+02; -1.7670e+02; 0.010039;skipped
+2023-10-12 09:57:32	[DEBUG]	 AutoDIC - Position_1 0003_0004.tif; 14.0931; 2.4125e+02; -3.5129e+02; -0.005381;skipped
+2023-10-12 09:57:33	[DEBUG]	 AutoDIC - Position_1 0003_0005.tif; 14.5163; -4.9203e+02; -2.5740e+02; 0.012178;skipped
+2023-10-12 09:57:33	[DEBUG]	 AutoDIC - Position_1 0003_0006.tif; 14.9427; -7.2346e+01; -3.1490e+01; -0.002280;skipped
+2023-10-12 09:57:34	[DEBUG]	 AutoDIC - Position_1 0003_0007.tif; 15.3672; -3.8210e+01; 1.1945e+02; -0.000581;skipped
+2023-10-12 09:57:34	[DEBUG]	 AutoDIC - Position_1 0003_0008.tif; 15.7693; 9.4369e+01; -3.8808e+02; 0.006188;skipped
+2023-10-12 09:57:34	[DEBUG]	 AutoDIC - Position_1 0003_0009.tif; 16.1924; -3.5381e+02; 3.0394e+02; 0.000243;skipped
+2023-10-12 09:57:34	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:57:34	[DEBUG]	 AutoDIC - Writing Position_1_img0008.TIF
+2023-10-12 09:57:34	[DEBUG]	 AutoDIC - New accumulation
+2023-10-12 09:57:35	[DEBUG]	 AutoDIC - Position_1 0004_0001.tif; 16.5948; 1.0363e+02; 1.5024e+02; 0.006489;skipped
+2023-10-12 09:57:35	[DEBUG]	 AutoDIC - Position_1 0004_0002.tif; 17.0110; -3.8584e+02; -4.7566e+02; 0.002303;skipped
+2023-10-12 09:57:36	[DEBUG]	 AutoDIC - Position_1 0004_0003.tif; 17.4262; 9.9950e+01; -1.0181e+02; 0.034702;skipped
+2023-10-12 09:57:36	[DEBUG]	 AutoDIC - Position_1 0004_0004.tif; 17.8209; 1.9614e+02; -4.7878e+02; 0.005070;skipped
+2023-10-12 09:57:36	[DEBUG]	 AutoDIC - Position_1 0004_0005.tif; 18.2119; 3.5869e+02; -3.5309e+02; -0.000140;skipped
+2023-10-12 09:57:37	[DEBUG]	 AutoDIC - Position_1 0004_0006.tif; 18.6261; 1.1129e+02; -4.8144e+02; 0.003896;skipped
+2023-10-12 09:57:37	[DEBUG]	 AutoDIC - Position_1 0004_0007.tif; 19.0421; -4.8996e+01; -1.7233e+02; -0.004961;skipped
+2023-10-12 09:57:38	[DEBUG]	 AutoDIC - Position_1 0004_0008.tif; 19.4766; 3.1310e+01; -1.4020e+02; 0.007515;skipped
+2023-10-12 09:57:38	[DEBUG]	 AutoDIC - Position_1 0004_0009.tif; 19.8981; 2.4229e+02; 3.8909e+01; 0.010009;skipped
+2023-10-12 09:57:38	[DEBUG]	 AutoDIC - Accframes: 1
+2023-10-12 09:57:38	[DEBUG]	 AutoDIC - Writing Position_1_img0009.TIF

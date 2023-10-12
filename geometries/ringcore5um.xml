@@ -1,0 +1,4 @@
+<?xml version="1.0" ?><Layer Name="ringcore5um" Version="1.0">
+	<Settings Accuracy="Fine" BeamCurrent="4.340000e-10" DwellTime="1.000000e-06" Parallel="0" Process="I-Etching" Rate="2.000000e-10" Spacing="1.666700e-01" SpotSize="5.000000e-08" WriteFieldSize="2.600000e-05"/>
+	<Object AngleA="0.000000" AngleB="0.000000" Center="0.0 0.0" Depth="2.000000e-07" DepthUnit="m" ExpositionFactor="1.000000" LineSettleFactor="1.000000" Name="Annulus 1" Orientation="0" RadiusA="5.000000e-06" RadiusB="2.500000e-06" Type="AnnulusFilled"/>
+</Layer>

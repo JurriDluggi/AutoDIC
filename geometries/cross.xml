@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer Name="Drift correction 1" Version="1.0">
+	<Settings Accuracy="Fine" BeamCurrent="1.240000e-10" DwellTime="1.000000e-06" Parallel="1" Process="I-Etching" Rate="2.040000e-10" Spacing="1.000000e-01" SpotSize="4.200000e-07" WriteFieldSize="2.600000e-05"/>
+	<Object Angle="0.000000e+00" Center="-1.050000e-05 1.050000e-05" Depth="5.000000e-07" DepthUnit="m" ExpositionFactor="1.000000e+00" LineSettleFactor="1.000000e+00" Name="" ScanAngle="0.000000e+00" Type="PolygonOutline">
+		<Vertex Position="-1.050000e-05 1.050000e-05"/>
+		<Vertex Position="-9.500000e-06 9.500000e-06"/>
+	</Object>
+	<Object Angle="0.000000e+00" Center="-9.500000e-06 1.050000e-05" Depth="5.000000e-07" DepthUnit="m" ExpositionFactor="1.000000e+00" LineSettleFactor="1.000000e+00" Name="" ScanAngle="0.000000e+00" Type="PolygonOutline">
+		<Vertex Position="-9.500000e-06 1.050000e-05"/>
+		<Vertex Position="-1.050000e-05 9.500000e-06"/>
+	</Object>
+</Layer>

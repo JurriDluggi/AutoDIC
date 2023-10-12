@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer Name="alignment" Version="1.0">
+	<Settings Accuracy="Fine" BeamCurrent="8.940000e-11" DwellTime="1.000000e-06" Parallel="0" Process="I-Etching" Rate="3.000000e-10" Spacing="1.000000e+00" SpotSize="5.000000e-08" WriteFieldSize="2.600000e-05"/>
+	<Object Angle="0.000000e+00" Center="-2.500000e-06 0.000000e+00" Depth="5.000000e-06" DepthUnit="m" ExpositionFactor="1.000000e+00" LineSettleFactor="1.000000e+00" Name="Cross 1" ScanAngle="0.000000e+00" Type="PolygonOutline">
+		<Vertex Position="-2.500000e-06 0.000000e+00"/>
+		<Vertex Position="2.500000e-06 0.000000e+00"/>
+	</Object>
+	<Object Angle="0.000000e+00" Center="0.000000e+00 -2.500000e-06" Depth="5.000000e-06" DepthUnit="m" ExpositionFactor="1.000000e+00" LineSettleFactor="1.000000e+00" Name="Cross 1" ScanAngle="0.000000e+00" Type="PolygonOutline">
+		<Vertex Position="0.000000e+00 -2.500000e-06"/>
+		<Vertex Position="0.000000e+00 2.500000e-06"/>
+	</Object>
+	<Object AngleA="0.000000" AngleB="0.000000" Center="0.000000e+00 0.000000e+00" Depth="1.000000e-06" DepthUnit="m" ExpositionFactor="1" LineSettleFactor="1" Name="Circle 1" Orientation="0" Radius="3.500000e-06" Type="ArcOutline"/>
+</Layer>

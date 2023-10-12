@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer Name="Layer 1" Version="1.0">
+	<Settings Accuracy="Fine" BeamCurrent="5.000000e-10" DwellTime="1.000000e-03" Parallel="0" Process="I-Etching" Rate="3.000000e-10" Spacing="1.000000e+00" SpotSize="5.000000e-08" WriteFieldSize="2.600000e-05"/>
+	<Object Angle="0.000000e+00" Center="1.214142e-06 -1.574853e-06" Depth="5.000000e+03" DepthUnit="scan" ExpositionFactor="1.000000e+00" LineSettleFactor="1.000000e+00" Name="Dot 1" ScanAngle="0.000000e+00" Type="PolygonOutline">
+		<Vertex Position="1.214142e-06 -1.574853e-06"/>
+		<Vertex Position="1.214142e-06 -1.574853e-06"/>
+	</Object>
+</Layer>

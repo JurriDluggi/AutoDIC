@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Layer Name="double_slot" Version="1.0">
+	<Settings Accuracy="Fine" BeamCurrent="5.000000e-10" DwellTime="1.000000e-06" Parallel="1" Process="I-Etching" Rate="4.340000e-10" Spacing="1.000000e+00" SpotSize="5.000000e-08" WriteFieldSize="2.600000e-05"/>
+	<Object Angle="90.000000" Center="-2.000000e-06 0.000000e+00" Depth="1.000000e-07" DepthUnit="m" ExpositionFactor="1.000000" Height="1.000000e-06" LineSettleFactor="1.000000" Name="Filled rect 1" ScanningPath="1" Type="RectangleFilled" Width="1.200000e-05"/>
+	<Object Angle="90.000000" Center="2.042514e-06 -3.237052e-23" Depth="1.000000e-07" DepthUnit="m" ExpositionFactor="1.000000" Height="1.057301e-06" LineSettleFactor="1.000000" Name="Filled rect 2" ScanningPath="1" Type="RectangleFilled" Width="1.200000e-05"/>
+</Layer>

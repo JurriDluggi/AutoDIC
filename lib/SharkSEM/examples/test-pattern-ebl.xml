@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Layer Name="Abcd" Version="1.0">
+    <Settings WriteFieldSize="0.001000" Process="E-Exposition" Dose="3.0" Accuracy="Fine" Spacing="1.0" BeamCurrent="1.0e-9" />
+	<Object Type="RectangleOutline" Center="0.0 0.0" Width="0.000180" Height="0.000120" Angle="0.0" Depth="1" DepthUnit="scan" ExpositionFactor="1.0" />
+	<Object Type="RectangleFilled" Center="0.0 0.0" Width="0.000180" Height="0.000120" Angle="0.0" ScanningPath="0" Depth="1" DepthUnit="scan" ExpositionFactor="1.0" />
+	<Object Type="PolygonOutline" Center="0.0 0.0" Angle="0.0" ScanningPath="0" Depth="1" DepthUnit="scan" ExpositionFactor="1.0">
+        <Vertex Position="-0.0001 -0.0001" />
+        <Vertex Position="0.0001 -0.0001" />
+        <Vertex Position="0.0001 0.0001" />
+        <Vertex Position="-0.0001 0.0001" />
+	</Object>
+	<Object Type="PolygonFilled" Center="0.0 0.0" Angle="0.0" ScanAngle="0.0" ScanningPath="0" Depth="1" DepthUnit="scan" ExpositionFactor="1.0">
+        <Vertex Position="-0.0001 -0.0001" />
+        <Vertex Position="0.0001 -0.0001" />
+        <Vertex Position="0.0001 0.0001" />
+        <Vertex Position="-0.0001 0.0001" />
+	</Object>
+</Layer>
